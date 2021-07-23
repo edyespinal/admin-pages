@@ -222,7 +222,7 @@
   "admin/pages.editor.container.editpath.label": "URL",
   "admin/pages.editor.container.master-workspace-warning.text": "라이브 스토어를 편집하고 있습니다. 변경사항이 즉시 적용됩니다.",
   "admin/pages.editor.iframe.confirm-prompt": "정말로 나가시겠습니까?",
-  "admin/pages.editor.image-uploader.empty.button": "업로드",
+  "admin/pages.editor.image-uploader.empty.button": "이미지를 끌어서 놓거나 클릭하여 선택",
   "admin/pages.editor.image-uploader.empty.subtext-1": "혹은",
   "admin/pages.editor.image-uploader.empty.subtext-2": "끌어서 놓기",
   "admin/pages.editor.image-uploader.empty.subtext-3": "이미지",
