@@ -222,7 +222,7 @@
   "admin/pages.editor.container.editpath.label": "URL",
   "admin/pages.editor.container.master-workspace-warning.text": "Vous êtes en train d’éditer le magasin en direct. Les changements prendront effet immédiatement.",
   "admin/pages.editor.iframe.confirm-prompt": "Vous êtes sûr de vouloir partir ?",
-  "admin/pages.editor.image-uploader.empty.button": "Télécharger",
+  "admin/pages.editor.image-uploader.empty.button": "Glissez et déposez une image ou cliquez pour choisir",
   "admin/pages.editor.image-uploader.empty.subtext-1": "ou",
   "admin/pages.editor.image-uploader.empty.subtext-2": "glisser-déposer",
   "admin/pages.editor.image-uploader.empty.subtext-3": "une image",
