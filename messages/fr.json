@@ -160,7 +160,7 @@
   "admin/pages.editor.component-list.action-menu.reset": "Réinitialiser",
   "admin/pages.editor.component-list.action-menu.tooltip": "Cette carte est actuellement en cours d’édition.",
   "admin/pages.editor.component-list.back": "Retour",
-  "admin/pages.editor.component-list.status.active": "Actif",
+  "admin/pages.editor.component-list.status.active": "Active",
   "admin/pages.editor.component-list.status.inactive": "Inactive",
   "admin/pages.editor.component-list.status.scheduled": "Prévu",
   "admin/pages.editor.component-list.title": "Configurations",
