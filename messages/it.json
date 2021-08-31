@@ -222,7 +222,7 @@
   "admin/pages.editor.container.editpath.label": "URL",
   "admin/pages.editor.container.master-workspace-warning.text": "Stai modificando il negozio live. Le modifiche avranno un effetto immediato.",
   "admin/pages.editor.iframe.confirm-prompt": "Sei sicuro di voler uscire?",
-  "admin/pages.editor.image-uploader.empty.button": "Carica",
+  "admin/pages.editor.image-uploader.empty.button": "Trascina e rilascia un'immagine o clicca per selezionarne una",
   "admin/pages.editor.image-uploader.empty.subtext-1": "o",
   "admin/pages.editor.image-uploader.empty.subtext-2": "trascina qui",
   "admin/pages.editor.image-uploader.empty.subtext-3": "un'immagine",
